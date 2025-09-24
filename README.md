@@ -1,7 +1,8 @@
-## Oi! Eu sou o Vitor Alves
+## Oi! Eu sou Vitor Alves
 
 - 🔭 Trabalho com Análise De Dados ...
 - 🌱 Estudando Python Diariamente
+
 
 
 <div style="display: inline_block"><br>
