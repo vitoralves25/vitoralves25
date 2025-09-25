@@ -1,7 +1,7 @@
 ## Oi! Eu sou Vitor Alves
 
-- 🔭 Trabalho com Análise De Dados ...
-- 🌱 Estudando Python Diariamente
+- 🔭 Foco em Análise De Dados ...
+- 🌱 Estudando Python | Power BI | Banco de Dados | SQL
 
 
 
