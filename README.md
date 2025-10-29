@@ -1,6 +1,6 @@
 ## Oi! Eu sou Vitor Alves
 
-- 🔭 Foco em Análise De Dados ...
+- 🔭 Foco em Ciência de Dados ...
 - 🌱 Estudando Python
 
 
