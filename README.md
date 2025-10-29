@@ -1,7 +1,7 @@
 ## Oi! Eu sou Vitor Alves
 
 - 🔭 Foco em Ciência de Dados ...
-- 🌱 Estudando Python
+- 🌱 Estudando Python | SQL ...
 
 
 
